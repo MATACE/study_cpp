@@ -1,0 +1,120 @@
+Log file created at: 2020/01/19 15:54:28
+Running on machine: iiot
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0119 15:54:28.079813 31078 client.cpp:28] StartConnect()
+I0119 15:54:28.080080 31078 client.cpp:76] Trying to connect 192.168.101.114:5075...
+E0119 15:54:28.080169 31078 client.cpp:79] Connet to server failed.
+I0119 15:54:33.080528 31078 client.cpp:76] Trying to connect 192.168.101.114:5075...
+I0119 15:54:33.080698 31078 client.cpp:45] Log in 192.168.101.114:5075...
+I0119 15:54:33.080920 31078 client.cpp:55] The keep alive status : 1
+I0119 15:54:50.038389 31078 client.cpp:375] what[0]: AA11223344BB
+I0119 15:54:50.038606 31078 client.cpp:227] Received: AA11223344BB
+I0119 15:54:50.038650 31078 client.cpp:357] Receiver package form server.
+I0119 15:54:50.617161 31078 client.cpp:375] what[0]: AA11223344BB
+I0119 15:54:50.617274 31078 client.cpp:227] Received: AA11223344BB
+I0119 15:54:50.617296 31078 client.cpp:357] Receiver package form server.
+I0119 15:54:51.131736 31078 client.cpp:375] what[0]: AA11223344BB
+I0119 15:54:51.132059 31078 client.cpp:227] Received: AA11223344BB
+I0119 15:54:51.132210 31078 client.cpp:357] Receiver package form server.
+I0119 15:54:51.450937 31078 client.cpp:375] what[0]: AA11223344BB
+I0119 15:54:51.451414 31078 client.cpp:227] Received: AA11223344BB
+I0119 15:54:51.451689 31078 client.cpp:357] Receiver package form server.
+I0119 15:54:51.700031 31078 client.cpp:375] what[0]: AA11223344BB
+I0119 15:54:51.700516 31078 client.cpp:227] Received: AA11223344BB
+I0119 15:54:51.700800 31078 client.cpp:357] Receiver package form server.
+I0119 15:54:51.959614 31078 client.cpp:375] what[0]: AA11223344BB
+I0119 15:54:51.960088 31078 client.cpp:227] Received: AA11223344BB
+I0119 15:54:51.960367 31078 client.cpp:357] Receiver package form server.
+I0119 15:54:52.098765 31078 client.cpp:375] what[0]: AA11223344BB
+I0119 15:54:52.099021 31078 client.cpp:227] Received: AA11223344BB
+I0119 15:54:52.099153 31078 client.cpp:357] Receiver package form server.
+I0119 15:54:52.328156 31078 client.cpp:375] what[0]: AA11223344BB
+I0119 15:54:52.328523 31078 client.cpp:227] Received: AA11223344BB
+I0119 15:54:52.328722 31078 client.cpp:357] Receiver package form server.
+I0119 15:54:52.659221 31078 client.cpp:375] what[0]: AA11223344BB
+I0119 15:54:52.659710 31078 client.cpp:227] Received: AA11223344BB
+I0119 15:54:52.659993 31078 client.cpp:357] Receiver package form server.
+I0119 15:54:52.938436 31078 client.cpp:375] what[0]: AA11223344BB
+I0119 15:54:52.938910 31078 client.cpp:227] Received: AA11223344BB
+I0119 15:54:52.939168 31078 client.cpp:357] Receiver package form server.
+I0119 15:54:53.253896 31078 client.cpp:375] what[0]: AA11223344BB
+I0119 15:54:53.254154 31078 client.cpp:227] Received: AA11223344BB
+I0119 15:54:53.254205 31078 client.cpp:357] Receiver package form server.
+I0119 15:54:53.555922 31078 client.cpp:375] what[0]: AA11223344BB
+I0119 15:54:53.556006 31078 client.cpp:227] Received: AA11223344BB
+I0119 15:54:53.556020 31078 client.cpp:357] Receiver package form server.
+I0119 15:54:53.750211 31078 client.cpp:375] what[0]: AA11223344BB
+I0119 15:54:53.750334 31078 client.cpp:227] Received: AA11223344BB
+I0119 15:54:53.750361 31078 client.cpp:357] Receiver package form server.
+I0119 15:54:53.855095 31078 client.cpp:375] what[0]: AA11223344BB
+I0119 15:54:53.855223 31078 client.cpp:227] Received: AA11223344BB
+I0119 15:54:53.855252 31078 client.cpp:357] Receiver package form server.
+I0119 15:54:54.047971 31078 client.cpp:375] what[0]: AA11223344BB
+I0119 15:54:54.048103 31078 client.cpp:227] Received: AA11223344BB
+I0119 15:54:54.048131 31078 client.cpp:357] Receiver package form server.
+I0119 15:54:54.255198 31078 client.cpp:375] what[0]: AA11223344BB
+I0119 15:54:54.255349 31078 client.cpp:227] Received: AA11223344BB
+I0119 15:54:54.255389 31078 client.cpp:357] Receiver package form server.
+I0119 15:54:54.460855 31078 client.cpp:375] what[0]: AA11223344BB
+I0119 15:54:54.461032 31078 client.cpp:227] Received: AA11223344BB
+I0119 15:54:54.461086 31078 client.cpp:357] Receiver package form server.
+I0119 15:54:54.674904 31078 client.cpp:375] what[0]: AA11223344BB
+I0119 15:54:54.675508 31078 client.cpp:227] Received: AA11223344BB
+I0119 15:54:54.675576 31078 client.cpp:357] Receiver package form server.
+I0119 15:54:54.893340 31078 client.cpp:375] what[0]: AA11223344BB
+I0119 15:54:54.893507 31078 client.cpp:227] Received: AA11223344BB
+I0119 15:54:54.893543 31078 client.cpp:357] Receiver package form server.
+I0119 15:54:54.997207 31078 client.cpp:375] what[0]: AA11223344BB
+I0119 15:54:54.997414 31078 client.cpp:227] Received: AA11223344BB
+I0119 15:54:54.997471 31078 client.cpp:357] Receiver package form server.
+I0119 15:54:55.173032 31078 client.cpp:375] what[0]: AA11223344BB
+I0119 15:54:55.173668 31078 client.cpp:227] Received: AA11223344BB
+I0119 15:54:55.173724 31078 client.cpp:357] Receiver package form server.
+I0119 15:54:55.381800 31078 client.cpp:375] what[0]: AA11223344BB
+I0119 15:54:55.381978 31078 client.cpp:227] Received: AA11223344BB
+I0119 15:54:55.382097 31078 client.cpp:357] Receiver package form server.
+I0119 15:54:55.599092 31078 client.cpp:375] what[0]: AA11223344BB
+I0119 15:54:55.599241 31078 client.cpp:227] Received: AA11223344BB
+I0119 15:54:55.599274 31078 client.cpp:357] Receiver package form server.
+I0119 15:54:55.803377 31078 client.cpp:375] what[0]: AA11223344BB
+I0119 15:54:55.803596 31078 client.cpp:227] Received: AA11223344BB
+I0119 15:54:55.803654 31078 client.cpp:357] Receiver package form server.
+I0119 15:54:56.020866 31078 client.cpp:375] what[0]: AA11223344BB
+I0119 15:54:56.021008 31078 client.cpp:227] Received: AA11223344BB
+I0119 15:54:56.021039 31078 client.cpp:357] Receiver package form server.
+I0119 15:54:56.192435 31078 client.cpp:375] what[0]: AA11223344BB
+I0119 15:54:56.192656 31078 client.cpp:227] Received: AA11223344BB
+I0119 15:54:56.192710 31078 client.cpp:357] Receiver package form server.
+I0119 15:54:56.289350 31078 client.cpp:375] what[0]: AA11223344BB
+I0119 15:54:56.289572 31078 client.cpp:227] Received: AA11223344BB
+I0119 15:54:56.289624 31078 client.cpp:357] Receiver package form server.
+I0119 15:54:56.526280 31078 client.cpp:375] what[0]: AA11223344BB
+I0119 15:54:56.526476 31078 client.cpp:227] Received: AA11223344BB
+I0119 15:54:56.526533 31078 client.cpp:357] Receiver package form server.
+I0119 15:54:56.733103 31078 client.cpp:375] what[0]: AA11223344BB
+I0119 15:54:56.733300 31078 client.cpp:227] Received: AA11223344BB
+I0119 15:54:56.733353 31078 client.cpp:357] Receiver package form server.
+I0119 15:54:56.937799 31078 client.cpp:375] what[0]: AA11223344BB
+I0119 15:54:56.937958 31078 client.cpp:227] Received: AA11223344BB
+I0119 15:54:56.938005 31078 client.cpp:357] Receiver package form server.
+I0119 15:54:57.135566 31078 client.cpp:375] what[0]: AA11223344BB
+I0119 15:54:57.135776 31078 client.cpp:227] Received: AA11223344BB
+I0119 15:54:57.135828 31078 client.cpp:357] Receiver package form server.
+I0119 15:54:57.370867 31078 client.cpp:375] what[0]: AA11223344BB
+I0119 15:54:57.371004 31078 client.cpp:227] Received: AA11223344BB
+I0119 15:54:57.371037 31078 client.cpp:357] Receiver package form server.
+I0119 15:55:01.826143 31078 client.cpp:375] what[0]: AA11223344BB
+I0119 15:55:01.826267 31078 client.cpp:227] Received: AA11223344BB
+I0119 15:55:01.826293 31078 client.cpp:357] Receiver package form server.
+I0119 15:55:02.812336 31078 client.cpp:375] what[0]: AA11223344BB
+I0119 15:55:02.812479 31078 client.cpp:227] Received: AA11223344BB
+I0119 15:55:02.812511 31078 client.cpp:357] Receiver package form server.
+I0119 15:55:07.472329 31078 client.cpp:375] what[0]: AA1122334455BB
+I0119 15:55:07.472553 31078 client.cpp:227] Received: AA1122334455BB
+I0119 15:55:07.472605 31078 client.cpp:357] Receiver package form server.
+I0119 15:55:07.990936 31078 client.cpp:375] what[0]: AA1122334455BB
+I0119 15:55:07.991057 31078 client.cpp:227] Received: AA1122334455BB
+I0119 15:55:07.991081 31078 client.cpp:357] Receiver package form server.
+I0119 15:55:08.439505 31078 client.cpp:375] what[0]: AA1122334455BB
+I0119 15:55:08.439714 31078 client.cpp:227] Received: AA1122334455BB
+I0119 15:55:08.439766 31078 client.cpp:357] Receiver package form server.

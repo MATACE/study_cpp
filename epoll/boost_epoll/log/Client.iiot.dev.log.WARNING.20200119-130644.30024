@@ -1,0 +1,4 @@
+Log file created at: 2020/01/19 13:06:44
+Running on machine: iiot
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0119 13:06:44.726605 30025 client.cpp:79] Connet to server failed.

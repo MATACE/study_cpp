@@ -10,7 +10,7 @@ TARGET  := demo
 # Compile and lib parameter.
 CC      := g++
 LIBS    := 
-LDFLAGS :=
+LDFLAGS := -ldl -lglog -lpthread -lboost_regex -lboost_system -lboost_timer
 DEFINES :=
 # The *.o save in include directory.
 INCLUDE := -I ./include

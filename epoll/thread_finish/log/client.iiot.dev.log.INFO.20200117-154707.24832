@@ -1,0 +1,4 @@
+Log file created at: 2020/01/17 15:47:07
+Running on machine: iiot
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0117 15:47:07.651103 24832 main.cpp:27] Finish.

@@ -1,0 +1,35 @@
+Log file created at: 2020/01/19 09:39:21
+Running on machine: iiot
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0119 09:39:21.485512 29555 client.cpp:27] StartConnect()
+I0119 09:39:21.486152 29555 client.cpp:71] Trying to connect 192.168.101.114:5075...
+E0119 09:39:21.486529 29555 client.cpp:74] Connet to server failed.
+I0119 09:39:26.487293 29555 client.cpp:71] Trying to connect 192.168.101.114:5075...
+I0119 09:39:26.487465 29555 client.cpp:44] Log in 192.168.101.114:5075...
+I0119 09:39:26.488425 29555 client.cpp:54] The keep alive status.1
+I0119 09:39:29.488809 29556 client.cpp:231] Send
+I0119 09:39:32.489259 29556 client.cpp:231] Send
+I0119 09:39:35.489681 29556 client.cpp:231] Send
+I0119 09:39:38.490164 29556 client.cpp:231] Send
+I0119 09:39:38.709234 29555 client.cpp:254] what[0]: AA123415BB
+I0119 09:39:38.709401 29555 client.cpp:215] No eraseAA123415BBAA
+I0119 09:39:38.709434 29555 client.cpp:217] eraseAA
+I0119 09:39:38.709483 29555 client.cpp:219] Received: AA123415BB
+I0119 09:39:41.490604 29556 client.cpp:231] Send
+I0119 09:39:44.490974 29556 client.cpp:231] Send
+I0119 09:39:46.718542 29555 client.cpp:254] what[0]: AA33BB
+I0119 09:39:46.718643 29555 client.cpp:215] No eraseAA33BB
+I0119 09:39:46.718657 29555 client.cpp:217] erase
+I0119 09:39:46.718668 29555 client.cpp:219] Received: AA33BB
+I0119 09:39:47.491317 29556 client.cpp:231] Send
+I0119 09:39:50.491730 29556 client.cpp:231] Send
+I0119 09:39:53.492110 29556 client.cpp:231] Send
+I0119 09:39:54.745173 29555 client.cpp:254] what[0]: AA123BB
+I0119 09:39:54.745249 29555 client.cpp:215] No eraseAA123BB
+I0119 09:39:54.745260 29555 client.cpp:217] erase
+I0119 09:39:54.745267 29555 client.cpp:219] Received: AA123BB
+I0119 09:39:56.492434 29556 client.cpp:231] Send
+I0119 09:39:57.481096 29555 client.cpp:254] what[0]: AA123BB
+I0119 09:39:57.481298 29555 client.cpp:215] No eraseAA123BB
+I0119 09:39:57.481349 29555 client.cpp:217] erase
+I0119 09:39:57.481415 29555 client.cpp:219] Received: AA123BB

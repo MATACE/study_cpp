@@ -1,0 +1,14 @@
+Log file created at: 2020/01/17 20:02:35
+Running on machine: iiot
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0117 20:02:35.824592 26595 client.cpp:26] StartConnect()
+I0117 20:02:35.825450 26595 client.cpp:67] Trying to connect 192.168.101.114:5075...
+E0117 20:02:35.825793 26595 client.cpp:70] Connet to server failed.
+I0117 20:02:40.826622 26595 client.cpp:67] Trying to connect 192.168.101.114:5075...
+I0117 20:02:40.827558 26595 client.cpp:43] Log in 192.168.101.114:5075...
+I0117 20:02:40.827844 26595 client.cpp:53] The keep alive status.1
+E0117 20:02:43.465528 26595 client.cpp:174] Server close.
+I0117 20:02:43.465762 26595 client.cpp:80] RetryConnect()
+I0117 20:02:43.466099 26597 client.cpp:111] Retrying to connect 192.168.101.114:5075...
+E0117 20:02:43.466286 26597 client.cpp:114] Retry Connet to server failed.
+I0117 20:02:43.828065 26596 client.cpp:203] Send

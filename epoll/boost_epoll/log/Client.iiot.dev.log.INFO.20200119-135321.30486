@@ -1,0 +1,56 @@
+Log file created at: 2020/01/19 13:53:21
+Running on machine: iiot
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0119 13:53:21.239785 30487 client.cpp:28] StartConnect()
+I0119 13:53:21.240361 30487 client.cpp:76] Trying to connect 192.168.101.114:5075...
+E0119 13:53:21.240897 30487 client.cpp:79] Connet to server failed.
+I0119 13:53:26.241688 30487 client.cpp:76] Trying to connect 192.168.101.114:5075...
+I0119 13:53:26.241834 30487 client.cpp:45] Log in 192.168.101.114:5075...
+I0119 13:53:26.241999 30487 client.cpp:55] The keep alive status : 1
+I0119 13:53:29.242511 30488 client.cpp:236] Send
+I0119 13:53:32.242848 30488 client.cpp:236] Send
+I0119 13:53:33.270532 30487 client.cpp:326] what[0]: AA112233BB
+I0119 13:53:33.270736 30487 client.cpp:225] Received: AA112233BB
+I0119 13:53:33.270773 30487 client.cpp:306] Receiver the heartbeat package.
+I0119 13:53:35.171594 30487 client.cpp:326] what[0]: AA112233BB
+I0119 13:53:35.171741 30487 client.cpp:225] Received: AA112233BB
+I0119 13:53:35.171774 30487 client.cpp:306] Receiver the heartbeat package.
+I0119 13:53:35.243181 30488 client.cpp:236] Send
+I0119 13:53:36.598692 30487 client.cpp:326] what[0]: AA112233BB
+I0119 13:53:36.598860 30487 client.cpp:225] Received: AA112233BB
+I0119 13:53:36.598893 30487 client.cpp:306] Receiver the heartbeat package.
+I0119 13:53:37.621229 30487 client.cpp:326] what[0]: AA112233BB
+I0119 13:53:37.621373 30487 client.cpp:225] Received: AA112233BB
+I0119 13:53:37.621400 30487 client.cpp:306] Receiver the heartbeat package.
+I0119 13:53:38.243963 30488 client.cpp:236] Send
+I0119 13:53:38.656220 30487 client.cpp:326] what[0]: AA112233BB
+I0119 13:53:38.656338 30487 client.cpp:225] Received: AA112233BB
+I0119 13:53:38.656361 30487 client.cpp:306] Receiver the heartbeat package.
+I0119 13:53:41.244290 30488 client.cpp:236] Send
+I0119 13:53:41.424794 30487 client.cpp:326] what[0]: AA112233BB
+I0119 13:53:41.424916 30487 client.cpp:225] Received: AA112233BB
+I0119 13:53:41.424940 30487 client.cpp:306] Receiver the heartbeat package.
+I0119 13:53:42.463402 30487 client.cpp:326] what[0]: AA112233BB
+I0119 13:53:42.463528 30487 client.cpp:225] Received: AA112233BB
+I0119 13:53:42.463554 30487 client.cpp:306] Receiver the heartbeat package.
+I0119 13:53:43.349398 30487 client.cpp:326] what[0]: AA112233BB
+I0119 13:53:43.349560 30487 client.cpp:225] Received: AA112233BB
+I0119 13:53:43.349587 30487 client.cpp:306] Receiver the heartbeat package.
+I0119 13:53:44.244675 30488 client.cpp:236] Send
+I0119 13:53:47.122139 30487 client.cpp:326] what[0]: AA11223344BB
+I0119 13:53:47.122201 30487 client.cpp:225] Received: AA11223344BB
+I0119 13:53:47.122210 30487 client.cpp:308] Receiver package form server.
+I0119 13:53:47.245062 30488 client.cpp:236] Send
+I0119 13:53:48.443526 30487 client.cpp:326] what[0]: AA11223344BB
+I0119 13:53:48.443616 30487 client.cpp:225] Received: AA11223344BB
+I0119 13:53:48.443634 30487 client.cpp:308] Receiver package form server.
+I0119 13:53:49.522410 30487 client.cpp:326] what[0]: AA11223344BB
+I0119 13:53:49.522579 30487 client.cpp:225] Received: AA11223344BB
+I0119 13:53:49.523001 30487 client.cpp:308] Receiver package form server.
+I0119 13:53:50.245363 30488 client.cpp:236] Send
+I0119 13:53:50.398393 30487 client.cpp:326] what[0]: AA11223344BB
+I0119 13:53:50.398509 30487 client.cpp:225] Received: AA11223344BB
+I0119 13:53:50.398579 30487 client.cpp:308] Receiver package form server.
+I0119 13:53:51.187876 30487 client.cpp:326] what[0]: AA11223344BB
+I0119 13:53:51.188014 30487 client.cpp:225] Received: AA11223344BB
+I0119 13:53:51.188030 30487 client.cpp:308] Receiver package form server.

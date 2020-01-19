@@ -1,0 +1,18 @@
+Log file created at: 2020/01/19 13:52:19
+Running on machine: iiot
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0119 13:52:19.387516 30424 client.cpp:28] StartConnect()
+I0119 13:52:19.388110 30424 client.cpp:76] Trying to connect 192.168.101.114:5075...
+E0119 13:52:19.388481 30424 client.cpp:79] Connet to server failed.
+I0119 13:52:24.389155 30424 client.cpp:76] Trying to connect 192.168.101.114:5075...
+I0119 13:52:24.389335 30424 client.cpp:45] Log in 192.168.101.114:5075...
+I0119 13:52:24.389516 30424 client.cpp:55] The keep alive status : 1
+I0119 13:52:27.389858 30425 client.cpp:235] Send
+I0119 13:52:28.262804 30424 client.cpp:325] what[0]: AA112233BB
+I0119 13:52:28.262998 30424 client.cpp:225] Received: AA112233BB
+I0119 13:52:30.390298 30425 client.cpp:235] Send
+I0119 13:52:31.231417 30424 client.cpp:325] what[0]: AA112233BB
+I0119 13:52:31.231575 30424 client.cpp:225] Received: AA112233BB
+I0119 13:52:32.989017 30424 client.cpp:325] what[0]: AA112233BB
+I0119 13:52:32.989468 30424 client.cpp:225] Received: AA112233BB
+I0119 13:52:33.390671 30425 client.cpp:235] Send

@@ -1,0 +1,29 @@
+Log file created at: 2020/01/17 20:13:12
+Running on machine: iiot
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0117 20:13:12.880324 26665 client.cpp:27] StartConnect()
+I0117 20:13:12.880780 26665 client.cpp:71] Trying to connect 192.168.101.114:5075...
+E0117 20:13:12.880890 26665 client.cpp:74] Connet to server failed.
+I0117 20:13:17.881443 26665 client.cpp:71] Trying to connect 192.168.101.114:5075...
+I0117 20:13:17.881548 26665 client.cpp:44] Log in 192.168.101.114:5075...
+I0117 20:13:17.881677 26665 client.cpp:54] The keep alive status.1
+I0117 20:13:20.882161 26666 client.cpp:215] Send
+I0117 20:13:22.894466 26665 client.cpp:172] Alive time out
+I0117 20:13:22.895236 26665 client.cpp:84] RetryConnect()
+I0117 20:13:22.895743 26667 client.cpp:115] Retrying to connect 192.168.101.114:5075...
+E0117 20:13:22.896179 26667 client.cpp:118] Retry Connet to server failed.
+I0117 20:13:23.882664 26666 client.cpp:215] Send
+I0117 20:13:26.883080 26666 client.cpp:215] Send
+I0117 20:13:27.896613 26667 client.cpp:115] Retrying to connect 192.168.101.114:5075...
+I0117 20:13:27.897410 26667 client.cpp:121] Log in 192.168.101.114:5075...
+I0117 20:13:29.883829 26666 client.cpp:215] Send
+I0117 20:13:32.820081 26665 client.cpp:172] Alive time out
+I0117 20:13:32.820277 26665 client.cpp:84] RetryConnect()
+I0117 20:13:32.820526 26668 client.cpp:115] Retrying to connect 192.168.101.114:5075...
+E0117 20:13:32.820767 26668 client.cpp:118] Retry Connet to server failed.
+I0117 20:13:32.884179 26666 client.cpp:215] Send
+I0117 20:13:35.884574 26666 client.cpp:215] Send
+I0117 20:13:37.821830 26668 client.cpp:115] Retrying to connect 192.168.101.114:5075...
+I0117 20:13:37.822010 26668 client.cpp:121] Log in 192.168.101.114:5075...
+I0117 20:13:38.885006 26666 client.cpp:215] Send
+I0117 20:13:41.885462 26666 client.cpp:215] Send

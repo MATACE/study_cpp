@@ -1,0 +1,49 @@
+Log file created at: 2020/01/19 10:51:07
+Running on machine: iiot
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0119 10:51:07.942169 29817 client.cpp:28] StartConnect()
+I0119 10:51:07.942603 29817 client.cpp:76] Trying to connect 192.168.101.114:5075...
+E0119 10:51:07.942832 29817 client.cpp:79] Connet to server failed.
+I0119 10:51:12.943359 29817 client.cpp:76] Trying to connect 192.168.101.114:5075...
+I0119 10:51:12.943522 29817 client.cpp:45] Log in 192.168.101.114:5075...
+I0119 10:51:12.943723 29817 client.cpp:55] The keep alive status : 1
+I0119 10:51:15.944116 29818 client.cpp:236] Send
+I0119 10:51:18.944567 29818 client.cpp:236] Send
+I0119 10:51:21.944970 29818 client.cpp:236] Send
+I0119 10:51:24.692317 29817 client.cpp:294] what[0]: AA123BB
+I0119 10:51:24.692436 29817 client.cpp:226] Received: AA123BB
+I0119 10:51:24.945228 29818 client.cpp:236] Send
+I0119 10:51:25.681635 29817 client.cpp:294] what[0]: AA123BB
+I0119 10:51:25.681771 29817 client.cpp:226] Received: AA123BB
+I0119 10:51:26.598989 29817 client.cpp:294] what[0]: AA123BB
+I0119 10:51:26.599149 29817 client.cpp:226] Received: AA123BB
+I0119 10:51:27.350214 29817 client.cpp:294] what[0]: AA123BB
+I0119 10:51:27.350353 29817 client.cpp:226] Received: AA123BB
+I0119 10:51:27.945700 29818 client.cpp:236] Send
+E0119 10:51:28.519944 29817 client.cpp:196] Server close.
+I0119 10:51:28.520187 29817 client.cpp:89] RetryConnect()
+I0119 10:51:28.520517 29820 client.cpp:122] Retrying to connect 192.168.101.114:5075...
+E0119 10:51:28.520668 29820 client.cpp:125] Retry Connet to server failed.
+I0119 10:51:30.946617 29818 client.cpp:236] Send
+I0119 10:51:33.521023 29820 client.cpp:122] Retrying to connect 192.168.101.114:5075...
+E0119 10:51:33.521200 29820 client.cpp:125] Retry Connet to server failed.
+I0119 10:51:33.947536 29818 client.cpp:236] Send
+I0119 10:51:36.947858 29818 client.cpp:236] Send
+I0119 10:51:38.521479 29820 client.cpp:122] Retrying to connect 192.168.101.114:5075...
+E0119 10:51:38.522008 29820 client.cpp:125] Retry Connet to server failed.
+I0119 10:51:39.948282 29818 client.cpp:236] Send
+I0119 10:51:42.948921 29818 client.cpp:236] Send
+I0119 10:51:43.522606 29820 client.cpp:122] Retrying to connect 192.168.101.114:5075...
+E0119 10:51:43.523209 29820 client.cpp:125] Retry Connet to server failed.
+I0119 10:51:45.949144 29818 client.cpp:236] Send
+I0119 10:51:48.523984 29820 client.cpp:122] Retrying to connect 192.168.101.114:5075...
+E0119 10:51:48.524686 29820 client.cpp:125] Retry Connet to server failed.
+I0119 10:51:48.949431 29818 client.cpp:236] Send
+I0119 10:51:51.949766 29818 client.cpp:236] Send
+I0119 10:51:53.525058 29820 client.cpp:122] Retrying to connect 192.168.101.114:5075...
+E0119 10:51:53.525547 29820 client.cpp:125] Retry Connet to server failed.
+I0119 10:51:54.950078 29818 client.cpp:236] Send
+I0119 10:51:57.950404 29818 client.cpp:236] Send
+I0119 10:51:58.526648 29820 client.cpp:122] Retrying to connect 192.168.101.114:5075...
+E0119 10:51:58.526971 29820 client.cpp:125] Retry Connet to server failed.
+I0119 10:52:00.950769 29818 client.cpp:236] Send

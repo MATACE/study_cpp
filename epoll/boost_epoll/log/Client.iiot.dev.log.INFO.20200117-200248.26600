@@ -1,0 +1,45 @@
+Log file created at: 2020/01/17 20:02:48
+Running on machine: iiot
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0117 20:02:48.401693 26601 client.cpp:26] StartConnect()
+I0117 20:02:48.402509 26601 client.cpp:67] Trying to connect 192.168.101.114:5075...
+E0117 20:02:48.402801 26601 client.cpp:70] Connet to server failed.
+I0117 20:02:53.403448 26601 client.cpp:67] Trying to connect 192.168.101.114:5075...
+E0117 20:02:53.404333 26601 client.cpp:70] Connet to server failed.
+I0117 20:02:58.404806 26601 client.cpp:67] Trying to connect 192.168.101.114:5075...
+E0117 20:02:58.405774 26601 client.cpp:70] Connet to server failed.
+I0117 20:03:03.406090 26601 client.cpp:67] Trying to connect 192.168.101.114:5075...
+E0117 20:03:03.406886 26601 client.cpp:70] Connet to server failed.
+I0117 20:03:08.407167 26601 client.cpp:67] Trying to connect 192.168.101.114:5075...
+E0117 20:03:08.408505 26601 client.cpp:70] Connet to server failed.
+I0117 20:03:13.408915 26601 client.cpp:67] Trying to connect 192.168.101.114:5075...
+I0117 20:03:13.409729 26601 client.cpp:43] Log in 192.168.101.114:5075...
+I0117 20:03:13.409958 26601 client.cpp:53] The keep alive status.1
+I0117 20:03:16.410305 26602 client.cpp:203] Send
+I0117 20:03:19.410749 26602 client.cpp:203] Send
+I0117 20:03:20.693872 26601 client.cpp:195] 123415
+I0117 20:03:21.174612 26601 client.cpp:195] 123415
+I0117 20:03:21.577430 26601 client.cpp:195] 123415
+I0117 20:03:21.793409 26601 client.cpp:195] 123415
+I0117 20:03:22.411092 26602 client.cpp:203] Send
+E0117 20:03:22.460059 26601 client.cpp:174] Server close.
+I0117 20:03:22.460237 26601 client.cpp:80] RetryConnect()
+I0117 20:03:22.460561 26603 client.cpp:111] Retrying to connect 192.168.101.114:5075...
+E0117 20:03:22.461011 26603 client.cpp:114] Retry Connet to server failed.
+I0117 20:03:25.411482 26602 client.cpp:203] Send
+I0117 20:03:27.461453 26603 client.cpp:111] Retrying to connect 192.168.101.114:5075...
+E0117 20:03:27.461591 26603 client.cpp:114] Retry Connet to server failed.
+I0117 20:03:28.411866 26602 client.cpp:203] Send
+I0117 20:03:31.412220 26602 client.cpp:203] Send
+I0117 20:03:32.461913 26603 client.cpp:111] Retrying to connect 192.168.101.114:5075...
+E0117 20:03:32.462316 26603 client.cpp:114] Retry Connet to server failed.
+I0117 20:03:34.412551 26602 client.cpp:203] Send
+I0117 20:03:37.412977 26602 client.cpp:203] Send
+I0117 20:03:37.462682 26603 client.cpp:111] Retrying to connect 192.168.101.114:5075...
+I0117 20:03:37.462889 26603 client.cpp:117] Log in 192.168.101.114:5075...
+I0117 20:03:40.413466 26602 client.cpp:203] Send
+I0117 20:03:43.246321 26601 client.cpp:195] 123415
+I0117 20:03:43.413792 26602 client.cpp:203] Send
+I0117 20:03:43.592265 26601 client.cpp:195] 123415
+I0117 20:03:43.922403 26601 client.cpp:195] 123415
+I0117 20:03:44.117971 26601 client.cpp:195] 123415

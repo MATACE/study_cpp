@@ -1,0 +1,7 @@
+Log file created at: 2020/01/19 13:30:10
+Running on machine: iiot
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0119 13:30:10.527129 30169 client.cpp:79] Connet to server failed.
+E0119 13:31:00.645238 30172 client.cpp:125] Retry Connet to server failed.
+E0119 13:31:50.674129 30173 client.cpp:125] Retry Connet to server failed.
+E0119 13:32:40.701201 30175 client.cpp:125] Retry Connet to server failed.

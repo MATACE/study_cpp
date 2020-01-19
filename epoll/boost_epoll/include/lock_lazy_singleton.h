@@ -10,11 +10,14 @@ class LockLazySingleton
 {
 public:
     // Static Get myself instace point api.
-    static LockLazySingleton* GetInstace();
+    static LockLazySingleton* GetInstance();
 
     // The singleton variable.
-    string name_;
-    int age_;
+    string host_;
+    int port_;
+    bool heartbeat_;
+    int heartbeat_timer_;
+    string heartbeat_package_;
 
 private:
     // Private constructor and destructor.
