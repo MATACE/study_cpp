@@ -1,6 +1,0 @@
-Log file created at: 2020/01/17 17:47:56
-Running on machine: iiot
-Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
-I0117 17:47:56.479817 26073 client.cpp:25] StartConnect()
-I0117 17:47:56.480093 26073 client.cpp:66] Trying to connect 192.168.101.114:5075...
-E0117 17:47:56.480273 26073 client.cpp:69] Connet to server failed.
