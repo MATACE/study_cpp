@@ -6,7 +6,7 @@ cmake_minimum_required(VERSION 3.5)
 # set_property(TARGET run_demo PROPERTY CXX_STANDARD 11)
 # set_property(TARGET run_demo PROPERTY CXX_STANDARD_REQUIRED ON)
 
-message(STATUS "Project source path " ${PROJECT_SOURCE_DIR})
+message(STATUS "Project source path " ${CMAKE_CURRENT_LIST_DIR})
 message(STATUS "Project Current list dir " ${CMAKE_CURRENT_LIST_DIR})
 
 # Option can use the OFF or ON to build the each mode.
@@ -42,16 +42,16 @@ if(BUILD_SWITCH_COROUTINE)
     # include_directories(${CMAKE_CURRENT_LIST_DIR}/libs/x64/glog/include/)
     # link_directories(${CMAKE_CURRENT_LIST_DIR}/libs/x64/glog/lib)
 
-    # include_directories(${PROJECT_SOURCE_DIR}/include/coroutines)
+    # include_directories(${CMAKE_CURRENT_LIST_DIR}/include/coroutines)
     # set(coroutine_src
-    #     ${PROJECT_SOURCE_DIR}/src/coroutines/example_switch_coroutine.cpp)
+    #     ${CMAKE_CURRENT_LIST_DIR}/src/coroutines/example_switch_coroutine.cpp)
     # add_library(switch_coroutine ${coroutine_src})
 
     # set_property(TARGET switch_coroutine PROPERTY CXX_STANDARD 11)
     # set_property(TARGET switch_coroutine PROPERTY CXX_STANDARD_REQUIRED ON)
     
     add_executable(example_switch_coroutine_app
-        ${PROJECT_SOURCE_DIR}/src/coroutines/example_switch_coroutine.c
+        ${CMAKE_CURRENT_LIST_DIR}/src/coroutines/example_switch_coroutine.c
     )
 
     set_property(TARGET example_switch_coroutine_app PROPERTY C_STANDARD 99)
@@ -71,16 +71,16 @@ if(BUILD_BOOST_ASIO_COROUTINE)
     # include_directories(${CMAKE_CURRENT_LIST_DIR}/libs/x64/glog/include/)
     # link_directories(${CMAKE_CURRENT_LIST_DIR}/libs/x64/glog/lib)
 
-    # include_directories(${PROJECT_SOURCE_DIR}/include/coroutines)
+    # include_directories(${CMAKE_CURRENT_LIST_DIR}/include/coroutines)
     # set(coroutine_src
-    #     ${PROJECT_SOURCE_DIR}/src/coroutines/example_switch_coroutine.cpp)
+    #     ${CMAKE_CURRENT_LIST_DIR}/src/coroutines/example_switch_coroutine.cpp)
     # add_library(switch_coroutine ${coroutine_src})
 
     # set_property(TARGET switch_coroutine PROPERTY CXX_STANDARD 11)
     # set_property(TARGET switch_coroutine PROPERTY CXX_STANDARD_REQUIRED ON)
     
     add_executable(example_boost_asio_coroutine_app
-        ${PROJECT_SOURCE_DIR}/src/coroutines/example_boost_asio_coroutine.cpp
+        ${CMAKE_CURRENT_LIST_DIR}/src/coroutines/example_boost_asio_coroutine.cpp
     )
 
     set_property(TARGET example_boost_asio_coroutine_app PROPERTY CXX_STANDARD 11)
@@ -99,16 +99,16 @@ if(BUILD_THREAD_POOL)
     # include_directories(${CMAKE_CURRENT_LIST_DIR}/libs/x64/glog/include/)
     # link_directories(${CMAKE_CURRENT_LIST_DIR}/libs/x64/glog/lib)
 
-    include_directories(${PROJECT_SOURCE_DIR}/include/thread_pool)
+    include_directories(${CMAKE_CURRENT_LIST_DIR}/include/thread_pool)
     # set(coroutine_src
-    #     ${PROJECT_SOURCE_DIR}/src/coroutines/example_switch_coroutine.cpp)
+    #     ${CMAKE_CURRENT_LIST_DIR}/src/coroutines/example_switch_coroutine.cpp)
     # add_library(switch_coroutine ${coroutine_src})
 
     # set_property(TARGET switch_coroutine PROPERTY CXX_STANDARD 11)
     # set_property(TARGET switch_coroutine PROPERTY CXX_STANDARD_REQUIRED ON)
     
     add_executable(example_thread_pool_app
-        ${PROJECT_SOURCE_DIR}/src/thread_pool/example_thread_pool.cpp
+        ${CMAKE_CURRENT_LIST_DIR}/src/thread_pool/example_thread_pool.cpp
     )
 
     set_property(TARGET example_thread_pool_app PROPERTY CXX_STANDARD 11)
