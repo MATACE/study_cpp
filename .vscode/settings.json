@@ -58,6 +58,11 @@
         "cinttypes": "cpp",
         "utility": "cpp",
         "typeindex": "cpp",
-        "typeinfo": "cpp"
+        "typeinfo": "cpp",
+        "random": "cpp",
+        "*.ipp": "cpp",
+        "string": "cpp",
+        "strstream": "cpp",
+        "cfenv": "cpp"
     }
 }
