@@ -1,9 +1,9 @@
 #include <iostream>
 
-#include "factory.hpp"
+#include "abstract_factory.hpp"
 
 using namespace std;
-using namespace factory;
+using namespace abstract_factory;
 
 extern template class FishRodFactory<BigFishRod, BigFish>;
 extern template class FishRodFactory<SmallFishRod, SmallFish>;

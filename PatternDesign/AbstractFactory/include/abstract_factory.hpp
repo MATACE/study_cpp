@@ -1,9 +1,9 @@
-#ifndef FACTORY_H
-#define FACTORY_H
+#ifndef ABSTRACT_FACTORY_H
+#define ABSTRACT_FACTORY_H
 
 #include <iostream>
 
-namespace factory {
+namespace abstract_factory {
 
 using namespace std;
 
@@ -156,4 +156,4 @@ private:
 
 }
 
-#endif // FACTORY_H
+#endif // ABSTRACT_FACTORY_H

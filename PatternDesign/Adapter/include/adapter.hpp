@@ -32,6 +32,29 @@ public:
     }
 };
 
+class WoodDoor : public Door
+{
+    using Door::Door;
+public:
+    WoodDoor() = default;
+    virtual ~WoodDoor() = default;
+    void door_will_open() const {
+        std::cout << "Wood Door is opening." << std::endl;
+    }
+};
+
+class IronDoor : public Door
+{
+    using Door::Door;
+public:
+    IronDoor() = default;
+    virtual ~IronDoor() = default;
+    void door_will_open() const {
+        std::cout << "Iron Door is opening." << std::endl;
+    }
+};
+
+
 class SwitchAdapter : public Switch
 {
 public:
