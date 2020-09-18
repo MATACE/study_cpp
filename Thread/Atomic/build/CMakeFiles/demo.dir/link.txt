@@ -1,0 +1,1 @@
+/usr/bin/c++   -DCOM_X64 -g -W -std=c++11   CMakeFiles/demo.dir/src/main.cpp.o  -o demo -lpthread 

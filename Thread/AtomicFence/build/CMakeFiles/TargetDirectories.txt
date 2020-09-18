@@ -1,0 +1,3 @@
+/home/dev/workspace/tmp/study_cpp/Thread/AtomicFence/build/CMakeFiles/edit_cache.dir
+/home/dev/workspace/tmp/study_cpp/Thread/AtomicFence/build/CMakeFiles/rebuild_cache.dir
+/home/dev/workspace/tmp/study_cpp/Thread/AtomicFence/build/CMakeFiles/demo.dir
